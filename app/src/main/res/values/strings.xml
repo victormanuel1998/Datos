@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Datos</string>
+    <string name="btn">Enviar</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="nombre">Tu nombre</string>
+    <string name="email">Tu correo electronico</string>
+    <string name="asunto">Asunto</string>
+    <string name="resumen">Resumen</string>
+    <string name="Limpiar">Limpiar Datos</string>
+</resources>
